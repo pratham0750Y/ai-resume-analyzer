@@ -1,0 +1,4 @@
+Test Resume,Expected Top Role,Actual Top Role,Comments
+resume_a_data_analyst.docx,Data Analyst,Data Analyst,PASS
+resume_b_ml_engineer.docx,Machine Learning Engineer,Machine Learning Engineer,PASS
+resume_c_nlp_engineer.docx,NLP Engineer,NLP Engineer,PASS

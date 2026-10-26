@@ -1,0 +1,99 @@
+skill,category,learning_topic
+python,Programming,Python basics and OOP
+java,Programming,Java basics
+c++,Programming,C++ basics
+sql,Databases,SQL joins and aggregations
+mysql,Databases,MySQL basics
+mongodb,Databases,MongoDB basics
+pandas,Data,Pandas data handling
+numpy,Data,NumPy arrays
+excel,Data,Excel formulas and pivot tables
+power bi,Data,Power BI dashboards
+tableau,Data,Tableau dashboards
+statistics,Data,Statistics basics
+matplotlib,Data,Matplotlib charts
+machine learning,ML,Machine learning algorithms
+scikit-learn,ML,scikit-learn basics
+deep learning,ML,Deep learning basics
+tensorflow,ML,TensorFlow and Keras
+pytorch,ML,PyTorch basics
+nlp,NLP,NLP fundamentals
+transformers,NLP,Transformers and BERT
+hugging face,NLP,Hugging Face library
+spacy,NLP,spaCy basics
+llm,NLP,Working with LLM APIs
+rag,NLP,Retrieval-augmented generation
+opencv,Computer Vision,OpenCV basics
+cnn,Computer Vision,Convolutional neural networks
+yolo,Computer Vision,Object detection with YOLO
+fastapi,Backend,FastAPI basics
+flask,Backend,Flask basics
+streamlit,Backend,Streamlit dashboards
+apis,Backend,REST API basics
+docker,Cloud,Docker fundamentals
+aws,Cloud,AWS basics
+mlflow,Cloud,MLflow experiment tracking
+cloud deployment,Cloud,Deploying apps to the cloud
+git,Tools,Git and GitHub basics
+javascript,Programming,JavaScript basics
+typescript,Programming,TypeScript basics
+c#,Programming,C# basics
+bash,Programming,Shell scripting basics
+php,Programming,PHP basics
+scala,Programming,Scala basics
+data structures,Programming,Data structures and algorithms
+algorithms,Programming,Algorithms and problem solving
+object oriented programming,Programming,OOP concepts
+html,Web,HTML basics
+css,Web,CSS basics
+react,Web,React basics
+node.js,Web,Node.js basics
+django,Web,Django framework basics
+angular,Web,Angular basics
+postgresql,Databases,PostgreSQL basics
+sqlite,Databases,SQLite basics
+redis,Databases,Redis caching basics
+nosql,Databases,NoSQL concepts
+oracle,Databases,Oracle database basics
+data analysis,Data,Exploratory data analysis
+data cleaning,Data,Data cleaning with Pandas
+data visualization,Data,Data storytelling and charts
+seaborn,Data,Seaborn charts
+plotly,Data,Interactive charts with Plotly
+etl,Data,ETL pipelines
+spark,Data,Apache Spark basics
+hadoop,Data,Hadoop basics
+big data,Data,Big data concepts
+web scraping,Data,Web scraping with BeautifulSoup
+jupyter,Tools,Jupyter notebooks
+time series,ML,Time series forecasting
+feature engineering,ML,Feature engineering techniques
+xgboost,ML,Gradient boosting with XGBoost
+keras,ML,Keras basics
+reinforcement learning,ML,Reinforcement learning basics
+recommendation systems,ML,Recommendation system basics
+generative ai,ML,Generative AI basics
+model deployment,ML,Serving ML models with an API
+nltk,NLP,NLTK text preprocessing
+text classification,NLP,Text classification
+sentiment analysis,NLP,Sentiment analysis
+named entity recognition,NLP,Named entity recognition
+word embeddings,NLP,Word embeddings
+prompt engineering,NLP,Prompt engineering patterns
+langchain,NLP,LangChain basics
+vector database,NLP,Vector search with FAISS or Chroma
+image processing,Computer Vision,Image processing basics
+object detection,Computer Vision,Object detection concepts
+image segmentation,Computer Vision,Image segmentation
+computer vision,Computer Vision,Computer vision fundamentals
+kubernetes,Cloud,Kubernetes basics
+azure,Cloud,Azure basics
+gcp,Cloud,Google Cloud basics
+terraform,Cloud,Terraform basics
+airflow,Cloud,Apache Airflow workflows
+linux,Cloud,Linux command line basics
+github actions,Cloud,Automation with GitHub Actions
+jenkins,Cloud,Jenkins pipelines
+github,Tools,GitHub collaboration
+postman,Tools,API testing with Postman
+agile,Tools,Agile and Scrum basics
